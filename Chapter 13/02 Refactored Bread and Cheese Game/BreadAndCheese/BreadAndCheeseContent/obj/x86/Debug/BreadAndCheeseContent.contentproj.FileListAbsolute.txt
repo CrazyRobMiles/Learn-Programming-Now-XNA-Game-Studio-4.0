@@ -1,0 +1,2 @@
+C:\code\BreadAndCheese\BreadAndCheese\BreadAndCheeseContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\code\Bread and Cheese Game Complete\BreadAndCheese\BreadAndCheeseContent\obj\x86\Debug\ResolveAssemblyReference.cache

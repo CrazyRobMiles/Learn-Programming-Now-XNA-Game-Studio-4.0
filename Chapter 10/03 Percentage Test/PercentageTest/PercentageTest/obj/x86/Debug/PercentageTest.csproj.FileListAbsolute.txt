@@ -1,0 +1,6 @@
+C:\Users\Rob\Desktop\PercentageTest\PercentageTest\PercentageTest\bin\x86\Debug\PercentageTest.exe
+C:\Users\Rob\Desktop\PercentageTest\PercentageTest\PercentageTest\bin\x86\Debug\PercentageTest.pdb
+C:\Users\Rob\Desktop\PercentageTest\PercentageTest\PercentageTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\PercentageTest\PercentageTest\PercentageTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\PercentageTest\PercentageTest\PercentageTest\obj\x86\Debug\PercentageTest.exe
+C:\Users\Rob\Desktop\PercentageTest\PercentageTest\PercentageTest\obj\x86\Debug\PercentageTest.pdb

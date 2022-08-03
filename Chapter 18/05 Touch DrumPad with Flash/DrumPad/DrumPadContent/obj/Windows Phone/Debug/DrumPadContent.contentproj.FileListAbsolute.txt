@@ -1,0 +1,2 @@
+C:\Users\Rob\Desktop\DrumPad\DrumPad\DrumPadContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Dropbox\XNA Book\Chapter 18 Exploring Touch Input\Chapter 18 Final Code\05 Touch DrumPad with Flash\DrumPad\DrumPadContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

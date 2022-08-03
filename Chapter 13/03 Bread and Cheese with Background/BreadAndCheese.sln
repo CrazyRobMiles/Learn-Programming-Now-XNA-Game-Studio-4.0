@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadAndCheese", "BreadAndCheese\BreadAndCheese\BreadAndCheese.csproj", "{4B7CC9CC-0F1C-4211-ACD8-71235489B2E4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BreadAndCheeseContent", "BreadAndCheese\BreadAndCheeseContent\BreadAndCheeseContent.contentproj", "{5FE2B8F0-666B-4BCC-A9D9-31E27A199A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B7CC9CC-0F1C-4211-ACD8-71235489B2E4}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4B7CC9CC-0F1C-4211-ACD8-71235489B2E4}.Debug|x86.ActiveCfg = Debug|x86
+		{4B7CC9CC-0F1C-4211-ACD8-71235489B2E4}.Debug|x86.Build.0 = Debug|x86
+		{4B7CC9CC-0F1C-4211-ACD8-71235489B2E4}.Release|Any CPU.ActiveCfg = Release|x86
+		{4B7CC9CC-0F1C-4211-ACD8-71235489B2E4}.Release|x86.ActiveCfg = Release|x86
+		{4B7CC9CC-0F1C-4211-ACD8-71235489B2E4}.Release|x86.Build.0 = Release|x86
+		{5FE2B8F0-666B-4BCC-A9D9-31E27A199A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE2B8F0-666B-4BCC-A9D9-31E27A199A24}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5FE2B8F0-666B-4BCC-A9D9-31E27A199A24}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE2B8F0-666B-4BCC-A9D9-31E27A199A24}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Rob\Desktop\MusicPlayer\MusicPlayer\MusicPlayer\bin\x86\Debug\Content\music.xnb
+C:\Users\Rob\Desktop\MusicPlayer\MusicPlayer\MusicPlayer\bin\x86\Debug\Content\music.wma
+C:\Users\Rob\Desktop\MusicPlayer\MusicPlayer\MusicPlayer\bin\x86\Debug\MusicPlayer.exe
+C:\Users\Rob\Desktop\MusicPlayer\MusicPlayer\MusicPlayer\bin\x86\Debug\MusicPlayer.pdb
+C:\Users\Rob\Desktop\MusicPlayer\MusicPlayer\MusicPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\MusicPlayer\MusicPlayer\MusicPlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\MusicPlayer\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.exe
+C:\Users\Rob\Desktop\MusicPlayer\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.pdb

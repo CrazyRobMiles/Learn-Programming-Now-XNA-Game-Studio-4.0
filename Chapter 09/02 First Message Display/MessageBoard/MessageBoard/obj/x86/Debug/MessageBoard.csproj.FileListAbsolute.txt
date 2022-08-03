@@ -1,0 +1,7 @@
+C:\Users\Rob\Desktop\MessageBoard\MessageBoard\MessageBoard\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Rob\Desktop\MessageBoard\MessageBoard\MessageBoard\bin\x86\Debug\MessageBoard.exe
+C:\Users\Rob\Desktop\MessageBoard\MessageBoard\MessageBoard\bin\x86\Debug\MessageBoard.pdb
+C:\Users\Rob\Desktop\MessageBoard\MessageBoard\MessageBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\MessageBoard\MessageBoard\MessageBoard\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\MessageBoard\MessageBoard\MessageBoard\obj\x86\Debug\MessageBoard.exe
+C:\Users\Rob\Desktop\MessageBoard\MessageBoard\MessageBoard\obj\x86\Debug\MessageBoard.pdb

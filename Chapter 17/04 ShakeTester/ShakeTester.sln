@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShakeTester", "ShakeTester\ShakeTester\ShakeTester.csproj", "{5586BCFF-DF2F-49C0-82CD-E111F46F7002}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ShakeTesterContent", "ShakeTester\ShakeTesterContent\ShakeTesterContent.contentproj", "{FED3EEE9-1E75-42AF-8B79-F0FCE4893103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5586BCFF-DF2F-49C0-82CD-E111F46F7002}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{5586BCFF-DF2F-49C0-82CD-E111F46F7002}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{5586BCFF-DF2F-49C0-82CD-E111F46F7002}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{5586BCFF-DF2F-49C0-82CD-E111F46F7002}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{5586BCFF-DF2F-49C0-82CD-E111F46F7002}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{5586BCFF-DF2F-49C0-82CD-E111F46F7002}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{FED3EEE9-1E75-42AF-8B79-F0FCE4893103}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{FED3EEE9-1E75-42AF-8B79-F0FCE4893103}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

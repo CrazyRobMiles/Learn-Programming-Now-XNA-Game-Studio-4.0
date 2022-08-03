@@ -1,0 +1,13 @@
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Bread.xnb
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Cheese.xnb
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\BreadAndCheese.exe
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\BreadAndCheese.pdb
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\obj\x86\Debug\BreadAndCheese.exe
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\obj\x86\Debug\BreadAndCheese.pdb
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Tomato.xnb
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Background.xnb
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Title.xnb
+C:\Users\Rob\Desktop\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Pepper.xnb

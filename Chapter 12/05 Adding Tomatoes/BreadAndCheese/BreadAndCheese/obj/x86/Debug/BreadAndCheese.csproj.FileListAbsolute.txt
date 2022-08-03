@@ -1,0 +1,9 @@
+C:\code\BreadAndCheese\BreadAndCheese\BreadAndCheese\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\code\BreadAndCheese\BreadAndCheese\BreadAndCheese\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\code\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Bread.xnb
+C:\code\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Cheese.xnb
+C:\code\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\BreadAndCheese.exe
+C:\code\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\BreadAndCheese.pdb
+C:\code\BreadAndCheese\BreadAndCheese\BreadAndCheese\obj\x86\Debug\BreadAndCheese.exe
+C:\code\BreadAndCheese\BreadAndCheese\BreadAndCheese\obj\x86\Debug\BreadAndCheese.pdb
+C:\code\BreadAndCheese\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Tomato.xnb

@@ -1,0 +1,6 @@
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\bin\Xbox 360\Debug\MoodLight.exe
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\bin\Xbox 360\Debug\MoodLight.pdb
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\Xbox 360\Debug\MoodLight.exe
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\Xbox 360\Debug\MoodLight.pdb

@@ -1,0 +1,3 @@
+Content\RegionFont.xnb
+Content\Images\GreyRegion.xnb
+Content\Images\YellowPuck.xnb

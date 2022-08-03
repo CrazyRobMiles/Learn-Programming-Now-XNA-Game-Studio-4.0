@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodLight", "MoodLight\MoodLight\MoodLight.csproj", "{348640D3-AC1F-4E62-B988-A00A1DB0DC62}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MoodLightContent", "MoodLight\MoodLightContent\MoodLightContent.contentproj", "{4DA2DF36-8996-4188-B44C-0E0D456A446D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348640D3-AC1F-4E62-B988-A00A1DB0DC62}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{348640D3-AC1F-4E62-B988-A00A1DB0DC62}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{348640D3-AC1F-4E62-B988-A00A1DB0DC62}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{348640D3-AC1F-4E62-B988-A00A1DB0DC62}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{348640D3-AC1F-4E62-B988-A00A1DB0DC62}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{348640D3-AC1F-4E62-B988-A00A1DB0DC62}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+		{4DA2DF36-8996-4188-B44C-0E0D456A446D}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{4DA2DF36-8996-4188-B44C-0E0D456A446D}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

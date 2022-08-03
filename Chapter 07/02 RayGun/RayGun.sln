@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RayGun", "RayGun\RayGun\RayGun.csproj", "{FB648ADB-B785-4522-BD83-892D5C6CD515}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RayGunContent", "RayGun\RayGunContent\RayGunContent.contentproj", "{BFCF66CE-074D-4E2B-BBF6-B0A21E76C70A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB648ADB-B785-4522-BD83-892D5C6CD515}.Debug|x86.ActiveCfg = Debug|x86
+		{FB648ADB-B785-4522-BD83-892D5C6CD515}.Debug|x86.Build.0 = Debug|x86
+		{FB648ADB-B785-4522-BD83-892D5C6CD515}.Release|x86.ActiveCfg = Release|x86
+		{FB648ADB-B785-4522-BD83-892D5C6CD515}.Release|x86.Build.0 = Release|x86
+		{BFCF66CE-074D-4E2B-BBF6-B0A21E76C70A}.Debug|x86.ActiveCfg = Debug|x86
+		{BFCF66CE-074D-4E2B-BBF6-B0A21E76C70A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

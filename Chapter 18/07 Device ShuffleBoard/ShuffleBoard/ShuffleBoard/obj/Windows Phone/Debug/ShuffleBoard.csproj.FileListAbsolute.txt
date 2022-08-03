@@ -1,0 +1,15 @@
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\Content\RegionFont.xnb
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\Content\Images\GreyRegion.xnb
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\Content\Images\YellowPuck.xnb
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\ShuffleBoard.dll
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\ShuffleBoard.pdb
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\obj\Windows Phone\Debug\ShuffleBoard.dll
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\obj\Windows Phone\Debug\ShuffleBoard.pdb
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\ShuffleBoard.xap
+C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\obj\Windows Phone\Debug\XapCacheFile.xml

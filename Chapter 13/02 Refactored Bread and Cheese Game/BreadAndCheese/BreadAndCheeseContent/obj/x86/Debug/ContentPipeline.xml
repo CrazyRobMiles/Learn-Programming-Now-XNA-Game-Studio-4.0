@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Tomato.png</Source>
+      <Name>Images\Tomato</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\Bread and Cheese Game Complete\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Tomato.xnb</Output>
+      <Time>2010-09-13T19:46:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bread.png</Source>
+      <Name>Images\Bread</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\Bread and Cheese Game Complete\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Bread.xnb</Output>
+      <Time>2010-09-13T15:04:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Cheese.png</Source>
+      <Name>Images\Cheese</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\Bread and Cheese Game Complete\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\Images\Cheese.xnb</Output>
+      <Time>2010-09-13T15:04:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\Bread and Cheese Game Complete\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2010-09-13T20:38:11+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\code\Bread and Cheese Game Complete\BreadAndCheese\BreadAndCheeseContent\</RootDirectory>
+      <LoggerRootDirectory>C:\code\Bread and Cheese Game Complete\BreadAndCheese\BreadAndCheese\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\code\Bread and Cheese Game Complete\BreadAndCheese\BreadAndCheeseContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\code\Bread and Cheese Game Complete\BreadAndCheese\BreadAndCheese\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-06-29T11:54:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-06-29T11:54:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-06-29T11:54:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-06-29T11:54:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-06-29T11:54:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-06-29T11:54:24+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-07-13T19:50:12.3505129+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

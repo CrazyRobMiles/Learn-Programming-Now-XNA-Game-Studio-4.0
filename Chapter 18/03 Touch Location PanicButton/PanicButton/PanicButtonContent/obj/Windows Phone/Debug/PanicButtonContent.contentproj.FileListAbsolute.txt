@@ -1,0 +1,2 @@
+C:\Users\Rob\Desktop\PanicButton\PanicButton\PanicButtonContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Dropbox\XNA Book\Chapter 18 Exploring Touch Input\Chapter 18 Final Code\03 Touch Location PanicButton\PanicButton\PanicButtonContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

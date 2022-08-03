@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\Background.xnb</Output>
+      <Time>2010-12-23T10:04:27+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Bread.png</Source>
+      <Name>Bread</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\Bread.xnb</Output>
+      <Time>2010-12-23T10:04:27+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cheese.png</Source>
+      <Name>cheese</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\cheese.xnb</Output>
+      <Time>2010-12-23T10:04:27+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lostScreen.png</Source>
+      <Name>lostScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\lostScreen.xnb</Output>
+      <Time>2010-12-23T10:04:27+00:00</Time>
+    </Item>
+    <Item>
+      <Source>wonScreen.png</Source>
+      <Name>wonScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\wonScreen.xnb</Output>
+      <Time>2010-12-23T10:04:27+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lostSound.wav</Source>
+      <Name>lostSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\lostSound.xnb</Output>
+      <Time>2010-12-23T10:04:27+00:00</Time>
+    </Item>
+    <Item>
+      <Source>wonSound.wav</Source>
+      <Name>wonSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\wonSound.xnb</Output>
+      <Time>2010-12-23T10:04:27+00:00</Time>
+    </Item>
+    <Item>
+      <Source>engineSound.wav</Source>
+      <Name>engineSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\engineSound.xnb</Output>
+      <Time>2010-12-23T10:26:37+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLanderContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLander\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLanderContent\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-27T13:07:26.0983188+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

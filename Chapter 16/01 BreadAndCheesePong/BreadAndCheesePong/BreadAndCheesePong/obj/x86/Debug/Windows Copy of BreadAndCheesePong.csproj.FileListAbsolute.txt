@@ -1,0 +1,23 @@
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Background.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\BrownBread.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Cheese.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Left Player Wins.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Player 2 Wins.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Selecting Role.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Title.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Waiting for Host.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Waiting for Player.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Waiting for Sign In.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Waiting.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\WhiteBread.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Sounds\BreadHit.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Sounds\EdgeHit.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Sounds\LoseLife.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Sounds\RepeatHit.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\BreadAndCheesePong.exe
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\BreadAndCheesePong.pdb
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\obj\x86\Debug\BreadAndCheesePong.exe
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePong\obj\x86\Debug\BreadAndCheesePong.pdb

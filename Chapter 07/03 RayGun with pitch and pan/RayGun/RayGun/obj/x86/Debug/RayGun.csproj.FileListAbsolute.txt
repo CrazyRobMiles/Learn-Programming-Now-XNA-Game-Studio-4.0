@@ -1,0 +1,7 @@
+C:\Users\Rob\Desktop\RayGun\RayGun\RayGun\bin\x86\Debug\Content\shootSound.xnb
+C:\Users\Rob\Desktop\RayGun\RayGun\RayGun\bin\x86\Debug\RayGun.exe
+C:\Users\Rob\Desktop\RayGun\RayGun\RayGun\bin\x86\Debug\RayGun.pdb
+C:\Users\Rob\Desktop\RayGun\RayGun\RayGun\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\RayGun\RayGun\RayGun\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\RayGun\RayGun\RayGun\obj\x86\Debug\RayGun.exe
+C:\Users\Rob\Desktop\RayGun\RayGun\RayGun\obj\x86\Debug\RayGun.pdb

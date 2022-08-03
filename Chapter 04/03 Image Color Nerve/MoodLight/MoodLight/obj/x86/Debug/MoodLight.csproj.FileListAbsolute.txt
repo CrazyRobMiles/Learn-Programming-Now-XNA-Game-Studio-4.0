@@ -1,0 +1,7 @@
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\bin\x86\Debug\MoodLight.exe
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\bin\x86\Debug\MoodLight.pdb
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\x86\Debug\MoodLight.exe
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\x86\Debug\MoodLight.pdb
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\bin\x86\Debug\Content\jake.xnb

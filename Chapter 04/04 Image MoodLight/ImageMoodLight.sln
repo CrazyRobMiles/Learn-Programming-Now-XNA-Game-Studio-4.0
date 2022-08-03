@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageMoodLight", "ImageMoodLight\ImageMoodLight\ImageMoodLight.csproj", "{3F1F3B51-BA54-45D2-A8DB-5C993269C221}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ImageMoodLightContent", "ImageMoodLight\ImageMoodLightContent\ImageMoodLightContent.contentproj", "{6CF6A8FE-8857-41B8-AC6B-2C87BA9C942B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F1F3B51-BA54-45D2-A8DB-5C993269C221}.Debug|x86.ActiveCfg = Debug|x86
+		{3F1F3B51-BA54-45D2-A8DB-5C993269C221}.Debug|x86.Build.0 = Debug|x86
+		{3F1F3B51-BA54-45D2-A8DB-5C993269C221}.Release|x86.ActiveCfg = Release|x86
+		{3F1F3B51-BA54-45D2-A8DB-5C993269C221}.Release|x86.Build.0 = Release|x86
+		{6CF6A8FE-8857-41B8-AC6B-2C87BA9C942B}.Debug|x86.ActiveCfg = Debug|x86
+		{6CF6A8FE-8857-41B8-AC6B-2C87BA9C942B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

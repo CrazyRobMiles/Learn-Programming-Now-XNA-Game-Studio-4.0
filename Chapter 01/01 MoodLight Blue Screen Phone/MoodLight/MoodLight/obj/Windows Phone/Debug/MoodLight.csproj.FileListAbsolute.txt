@@ -1,0 +1,12 @@
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\bin\Windows Phone\Debug\MoodLight.dll
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\bin\Windows Phone\Debug\MoodLight.pdb
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\Windows Phone\Debug\MoodLight.dll
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\Windows Phone\Debug\MoodLight.pdb
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\bin\Windows Phone\Debug\MoodLight.xap
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLight\obj\Windows Phone\Debug\XapCacheFile.xml

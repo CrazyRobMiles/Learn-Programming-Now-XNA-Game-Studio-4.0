@@ -1,0 +1,8 @@
+C:\Users\Rob\Desktop\BigClock\BigClock\BigClock\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Rob\Desktop\BigClock\BigClock\BigClock\bin\x86\Debug\BigClock.exe
+C:\Users\Rob\Desktop\BigClock\BigClock\BigClock\bin\x86\Debug\BigClock.pdb
+C:\Users\Rob\Desktop\BigClock\BigClock\BigClock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\BigClock\BigClock\BigClock\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\BigClock\BigClock\BigClock\obj\x86\Debug\BigClock.exe
+C:\Users\Rob\Desktop\BigClock\BigClock\BigClock\obj\x86\Debug\BigClock.pdb
+C:\Users\Rob\Desktop\BigClock\BigClock\BigClock\bin\x86\Debug\Content\jake.xnb

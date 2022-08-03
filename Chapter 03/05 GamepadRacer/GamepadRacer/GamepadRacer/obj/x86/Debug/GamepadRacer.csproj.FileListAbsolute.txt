@@ -1,0 +1,6 @@
+C:\Users\Rob\Desktop\GamepadRacer\GamepadRacer\GamepadRacer\bin\x86\Debug\GamepadRacer.exe
+C:\Users\Rob\Desktop\GamepadRacer\GamepadRacer\GamepadRacer\bin\x86\Debug\GamepadRacer.pdb
+C:\Users\Rob\Desktop\GamepadRacer\GamepadRacer\GamepadRacer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\GamepadRacer\GamepadRacer\GamepadRacer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\GamepadRacer\GamepadRacer\GamepadRacer\obj\x86\Debug\GamepadRacer.exe
+C:\Users\Rob\Desktop\GamepadRacer\GamepadRacer\GamepadRacer\obj\x86\Debug\GamepadRacer.pdb

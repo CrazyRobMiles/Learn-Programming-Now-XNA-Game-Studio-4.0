@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleBoard", "ShuffleBoard\ShuffleBoard\ShuffleBoard.csproj", "{DC06F76C-6204-4BA0-A2C7-74A79D10360C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ShuffleBoardContent", "ShuffleBoard\ShuffleBoardContent\ShuffleBoardContent.contentproj", "{CCA159B3-DCAE-4F12-948E-671C6C600106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC06F76C-6204-4BA0-A2C7-74A79D10360C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{DC06F76C-6204-4BA0-A2C7-74A79D10360C}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{DC06F76C-6204-4BA0-A2C7-74A79D10360C}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{DC06F76C-6204-4BA0-A2C7-74A79D10360C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{DC06F76C-6204-4BA0-A2C7-74A79D10360C}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{DC06F76C-6204-4BA0-A2C7-74A79D10360C}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{CCA159B3-DCAE-4F12-948E-671C6C600106}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{CCA159B3-DCAE-4F12-948E-671C6C600106}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

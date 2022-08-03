@@ -1,0 +1,7 @@
+C:\Users\Rob\Desktop\JakeDisplay\JakeDisplay\JakeDisplay\bin\x86\Debug\Content\jake.xnb
+C:\Users\Rob\Desktop\JakeDisplay\JakeDisplay\JakeDisplay\bin\x86\Debug\JakeDisplay.exe
+C:\Users\Rob\Desktop\JakeDisplay\JakeDisplay\JakeDisplay\bin\x86\Debug\JakeDisplay.pdb
+C:\Users\Rob\Desktop\JakeDisplay\JakeDisplay\JakeDisplay\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\JakeDisplay\JakeDisplay\JakeDisplay\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\JakeDisplay\JakeDisplay\JakeDisplay\obj\x86\Debug\JakeDisplay.exe
+C:\Users\Rob\Desktop\JakeDisplay\JakeDisplay\JakeDisplay\obj\x86\Debug\JakeDisplay.pdb

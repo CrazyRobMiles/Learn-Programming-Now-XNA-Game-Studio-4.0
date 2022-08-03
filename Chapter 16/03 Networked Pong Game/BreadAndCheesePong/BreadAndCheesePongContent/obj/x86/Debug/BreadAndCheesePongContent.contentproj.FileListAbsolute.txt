@@ -1,0 +1,2 @@
+C:\Users\Rob\Desktop\BreadAndCheesePong\BreadAndCheesePong\BreadAndCheesePongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePongContent\obj\x86\Debug\ResolveAssemblyReference.cache

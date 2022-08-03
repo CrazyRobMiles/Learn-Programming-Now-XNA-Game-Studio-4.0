@@ -1,0 +1,14 @@
+﻿<xapCache source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\bin\Windows Phone\Debug\CheeseLander.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="23/12/2010 10:05:57">
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\Background.png" archivePath="Background.png" lastWriteTime="23/12/2010 10:03:49" />
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\GameThumbnail.png" archivePath="GameThumbnail.png" lastWriteTime="23/12/2010 10:03:49" />
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="23/12/2010 10:05:55" />
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\obj\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="23/12/2010 10:05:55" />
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\bin\Windows Phone\Debug\CheeseLander.dll" archivePath="CheeseLander.dll" lastWriteTime="23/12/2010 10:05:52" />
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\Background.xnb" archivePath="Content\Background.xnb" lastWriteTime="23/12/2010 10:05:51" />
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\Bread.xnb" archivePath="Content\Bread.xnb" lastWriteTime="23/12/2010 10:05:51" />
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\cheese.xnb" archivePath="Content\cheese.xnb" lastWriteTime="23/12/2010 10:05:51" />
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\lostScreen.xnb" archivePath="Content\lostScreen.xnb" lastWriteTime="23/12/2010 10:05:51" />
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\wonScreen.xnb" archivePath="Content\wonScreen.xnb" lastWriteTime="23/12/2010 10:05:52" />
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\lostSound.xnb" archivePath="Content\lostSound.xnb" lastWriteTime="23/12/2010 10:05:52" />
+  <file source="C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLander\bin\Windows Phone\Debug\Content\wonSound.xnb" archivePath="Content\wonSound.xnb" lastWriteTime="23/12/2010 10:05:52" />
+</xapCache>

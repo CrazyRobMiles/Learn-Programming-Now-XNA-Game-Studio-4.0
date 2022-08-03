@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\GreyOverlay.png</Source>
+      <Name>Images\GreyOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\Content\Images\GreyOverlay.xnb</Output>
+      <Time>2011-01-11T09:02:14.5254753+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\GreyRegion.png</Source>
+      <Name>Images\GreyRegion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\Content\Images\GreyRegion.xnb</Output>
+      <Time>2011-01-11T09:02:14.5264754+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\YellowPuck.png</Source>
+      <Name>Images\YellowPuck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\Content\Images\YellowPuck.xnb</Output>
+      <Time>2011-01-11T09:02:14.5294755+00:00</Time>
+    </Item>
+    <Item>
+      <Source>RegionFont.spritefont</Source>
+      <Name>RegionFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\Content\RegionFont.xnb</Output>
+      <Time>2011-01-11T09:05:10.1445201+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoardContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoardContent\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rob\Desktop\ShuffleBoard\ShuffleBoard\ShuffleBoard\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-17T12:23:36.1516134+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

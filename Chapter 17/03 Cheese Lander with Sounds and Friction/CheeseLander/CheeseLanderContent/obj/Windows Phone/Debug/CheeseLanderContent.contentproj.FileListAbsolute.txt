@@ -1,0 +1,2 @@
+C:\Users\Rob\Desktop\CheeseLander\CheeseLander\CheeseLanderContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Dropbox\XNA Book\Chapter 17 Motion Sensitive Games\Chapter 17 Final Code\03 Cheese Lander with Sounds and Friction\CheeseLander\CheeseLanderContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

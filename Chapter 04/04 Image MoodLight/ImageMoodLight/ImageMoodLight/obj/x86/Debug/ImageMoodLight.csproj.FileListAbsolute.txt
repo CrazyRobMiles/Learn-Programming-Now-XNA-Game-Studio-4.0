@@ -1,0 +1,7 @@
+C:\Users\Rob\Desktop\ImageMoodLight\ImageMoodLight\ImageMoodLight\bin\x86\Debug\Content\MoodSquares.xnb
+C:\Users\Rob\Desktop\ImageMoodLight\ImageMoodLight\ImageMoodLight\bin\x86\Debug\ImageMoodLight.exe
+C:\Users\Rob\Desktop\ImageMoodLight\ImageMoodLight\ImageMoodLight\bin\x86\Debug\ImageMoodLight.pdb
+C:\Users\Rob\Desktop\ImageMoodLight\ImageMoodLight\ImageMoodLight\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\ImageMoodLight\ImageMoodLight\ImageMoodLight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\ImageMoodLight\ImageMoodLight\ImageMoodLight\obj\x86\Debug\ImageMoodLight.exe
+C:\Users\Rob\Desktop\ImageMoodLight\ImageMoodLight\ImageMoodLight\obj\x86\Debug\ImageMoodLight.pdb

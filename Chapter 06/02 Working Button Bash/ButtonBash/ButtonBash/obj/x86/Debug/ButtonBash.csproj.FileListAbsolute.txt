@@ -1,0 +1,7 @@
+C:\Users\Rob\Desktop\ButtonBash\ButtonBash\ButtonBash\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Rob\Desktop\ButtonBash\ButtonBash\ButtonBash\bin\x86\Debug\ButtonBash.exe
+C:\Users\Rob\Desktop\ButtonBash\ButtonBash\ButtonBash\bin\x86\Debug\ButtonBash.pdb
+C:\Users\Rob\Desktop\ButtonBash\ButtonBash\ButtonBash\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\ButtonBash\ButtonBash\ButtonBash\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\ButtonBash\ButtonBash\ButtonBash\obj\x86\Debug\ButtonBash.exe
+C:\Users\Rob\Desktop\ButtonBash\ButtonBash\ButtonBash\obj\x86\Debug\ButtonBash.pdb

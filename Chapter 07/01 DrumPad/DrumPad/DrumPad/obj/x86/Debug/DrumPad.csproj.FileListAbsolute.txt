@@ -1,0 +1,10 @@
+C:\Users\Rob\Desktop\DrumPad\DrumPad\DrumPad\bin\x86\Debug\DrumPad.exe
+C:\Users\Rob\Desktop\DrumPad\DrumPad\DrumPad\bin\x86\Debug\DrumPad.pdb
+C:\Users\Rob\Desktop\DrumPad\DrumPad\DrumPad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\DrumPad\DrumPad\DrumPad\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\DrumPad\DrumPad\DrumPad\obj\x86\Debug\DrumPad.exe
+C:\Users\Rob\Desktop\DrumPad\DrumPad\DrumPad\obj\x86\Debug\DrumPad.pdb
+C:\Users\Rob\Desktop\DrumPad\DrumPad\DrumPad\bin\x86\Debug\Content\cymbolTing.xnb
+C:\Users\Rob\Desktop\DrumPad\DrumPad\DrumPad\bin\x86\Debug\Content\kick.xnb
+C:\Users\Rob\Desktop\DrumPad\DrumPad\DrumPad\bin\x86\Debug\Content\snare.xnb
+C:\Users\Rob\Desktop\DrumPad\DrumPad\DrumPad\bin\x86\Debug\Content\top.xnb

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Background.png</Source>
+      <Name>Images\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Background.xnb</Output>
+      <Time>2010-11-06T14:56:39.2328116+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\BrownBread.png</Source>
+      <Name>Images\BrownBread</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\BrownBread.xnb</Output>
+      <Time>2010-11-06T14:56:39.2952117+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Cheese.png</Source>
+      <Name>Images\Cheese</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Cheese.xnb</Output>
+      <Time>2010-11-06T14:56:39.3420118+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Left Player Wins.png</Source>
+      <Name>Images\Left Player Wins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Left Player Wins.xnb</Output>
+      <Time>2010-11-06T14:56:39.3888119+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player 2 Wins.png</Source>
+      <Name>Images\Player 2 Wins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Player 2 Wins.xnb</Output>
+      <Time>2010-11-06T14:56:39.3888119+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Selecting Role.png</Source>
+      <Name>Images\Selecting Role</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Selecting Role.xnb</Output>
+      <Time>2010-11-06T14:56:39.6228123+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Title.png</Source>
+      <Name>Images\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Title.xnb</Output>
+      <Time>2010-11-06T14:56:39.6696123+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Waiting for Host.png</Source>
+      <Name>Images\Waiting for Host</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Waiting for Host.xnb</Output>
+      <Time>2010-11-06T14:56:39.7944126+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Waiting for Player.png</Source>
+      <Name>Images\Waiting for Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Waiting for Player.xnb</Output>
+      <Time>2010-11-06T14:56:39.8412126+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Waiting for Sign In.png</Source>
+      <Name>Images\Waiting for Sign In</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Waiting for Sign In.xnb</Output>
+      <Time>2010-11-06T14:56:39.8568127+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Waiting.png</Source>
+      <Name>Images\Waiting</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\Waiting.xnb</Output>
+      <Time>2010-11-06T14:56:39.8568127+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WhiteBread.png</Source>
+      <Name>Images\WhiteBread</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Images\WhiteBread.xnb</Output>
+      <Time>2010-11-06T14:56:39.8724127+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\BreadHit.wav</Source>
+      <Name>Sounds\BreadHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Sounds\BreadHit.xnb</Output>
+      <Time>2010-11-06T14:56:45.0672218+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\EdgeHit.wav</Source>
+      <Name>Sounds\EdgeHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Sounds\EdgeHit.xnb</Output>
+      <Time>2010-11-06T14:56:45.1296219+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\LoseLife.wav</Source>
+      <Name>Sounds\LoseLife</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Sounds\LoseLife.xnb</Output>
+      <Time>2010-11-06T14:56:45.1296219+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\RepeatHit.wav</Source>
+      <Name>Sounds\RepeatHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\Sounds\RepeatHit.xnb</Output>
+      <Time>2010-11-06T14:56:45.145222+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2010-11-06T14:56:50.1520463+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePongContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePongContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\03 Networked Pong Game\BreadAndCheesePong\BreadAndCheesePong\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-16T19:14:07.1168724+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

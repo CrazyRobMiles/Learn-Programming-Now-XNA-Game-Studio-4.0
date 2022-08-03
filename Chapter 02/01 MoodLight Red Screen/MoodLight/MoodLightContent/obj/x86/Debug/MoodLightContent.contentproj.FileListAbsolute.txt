@@ -1,0 +1,2 @@
+C:\Users\Rob\Desktop\MoodLight\MoodLight\MoodLightContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 02 Programs, Data and Pretty Colors\Chapter 2 final code\01 MoodLight Red Screen\MoodLight\MoodLightContent\obj\x86\Debug\ResolveAssemblyReference.cache

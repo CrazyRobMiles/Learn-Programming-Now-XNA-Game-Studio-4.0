@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseLander", "CheeseLander\CheeseLander\CheeseLander.csproj", "{30482767-BE38-4A57-BEBC-31DC9622685A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CheeseLanderContent", "CheeseLander\CheeseLanderContent\CheeseLanderContent.contentproj", "{A51145FB-A07A-4A7F-8047-81F8CCF497D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30482767-BE38-4A57-BEBC-31DC9622685A}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{30482767-BE38-4A57-BEBC-31DC9622685A}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{30482767-BE38-4A57-BEBC-31DC9622685A}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{30482767-BE38-4A57-BEBC-31DC9622685A}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{30482767-BE38-4A57-BEBC-31DC9622685A}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{30482767-BE38-4A57-BEBC-31DC9622685A}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{A51145FB-A07A-4A7F-8047-81F8CCF497D4}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{A51145FB-A07A-4A7F-8047-81F8CCF497D4}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

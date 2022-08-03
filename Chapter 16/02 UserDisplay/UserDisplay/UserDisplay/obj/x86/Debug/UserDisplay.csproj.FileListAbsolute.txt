@@ -1,0 +1,12 @@
+C:\Users\Rob\Desktop\UserDisplay\UserDisplay\UserDisplay\bin\x86\Debug\UserDisplay.exe
+C:\Users\Rob\Desktop\UserDisplay\UserDisplay\UserDisplay\bin\x86\Debug\UserDisplay.pdb
+C:\Users\Rob\Desktop\UserDisplay\UserDisplay\UserDisplay\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\UserDisplay\UserDisplay\UserDisplay\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\UserDisplay\UserDisplay\UserDisplay\obj\x86\Debug\UserDisplay.exe
+C:\Users\Rob\Desktop\UserDisplay\UserDisplay\UserDisplay\obj\x86\Debug\UserDisplay.pdb
+C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\02 UserDisplay\UserDisplay\UserDisplay\bin\x86\Debug\UserDisplay.exe
+C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\02 UserDisplay\UserDisplay\UserDisplay\bin\x86\Debug\UserDisplay.pdb
+C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\02 UserDisplay\UserDisplay\UserDisplay\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\02 UserDisplay\UserDisplay\UserDisplay\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\02 UserDisplay\UserDisplay\UserDisplay\obj\x86\Debug\UserDisplay.exe
+C:\Users\Rob\Documents\My Dropbox\XNA Book\Chapter 16 Creating Multiplayer Networked Games\Chapter 16 Code\02 UserDisplay\UserDisplay\UserDisplay\obj\x86\Debug\UserDisplay.pdb

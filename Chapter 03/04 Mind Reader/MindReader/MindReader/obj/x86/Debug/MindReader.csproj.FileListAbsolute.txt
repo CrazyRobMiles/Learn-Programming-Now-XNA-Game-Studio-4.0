@@ -1,0 +1,6 @@
+C:\Users\Rob\Desktop\MindReader\MindReader\MindReader\bin\x86\Debug\MindReader.exe
+C:\Users\Rob\Desktop\MindReader\MindReader\MindReader\bin\x86\Debug\MindReader.pdb
+C:\Users\Rob\Desktop\MindReader\MindReader\MindReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\MindReader\MindReader\MindReader\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\MindReader\MindReader\MindReader\obj\x86\Debug\MindReader.exe
+C:\Users\Rob\Desktop\MindReader\MindReader\MindReader\obj\x86\Debug\MindReader.pdb
